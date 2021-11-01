@@ -58,4 +58,4 @@ class TestClass(name : String){
 
 ## 참고사이트
 [Kotlin 공식문서](https://kotlinlang.org/docs/classes.html#secondary-constructors)   
-[Kotlin 생성자 초간단 이해하기](https://medium.com/@sket8993/kotlin-%EC%83%9D%EC%84%B1%EC%9E%90-%EC%B4%88%EA%B0%84%EB%8B%A8-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-b8a61df6fe6)
+이영규님 블로그 : [Kotlin 생성자 초간단 이해하기](https://medium.com/@sket8993/kotlin-%EC%83%9D%EC%84%B1%EC%9E%90-%EC%B4%88%EA%B0%84%EB%8B%A8-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-b8a61df6fe6)
