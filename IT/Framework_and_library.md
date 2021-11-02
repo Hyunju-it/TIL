@@ -30,7 +30,7 @@ IT 관련 프로젝트를 진행하다보면 자주 발견하는 단어이다. �
 라이브러리, 프레임워크 궁극적인 탄생 이유는 프로그램을 쉽게 만들기 위함이다.
 
 ## 참고자료
-[RedHat-자바 프레임워크(Java Framework)란?](https://www.redhat.com/ko/topics/cloud-native-apps/what-is-a-Java-framework)
+[RedHat-자바 프레임워크(Java Framework)란?](https://www.redhat.com/ko/topics/cloud-native-apps/what-is-a-Java-framework)   
 [새로비-프레임워크?라이브러리?둘의차이점](https://engkimbs.tistory.com/673)
 [CASTINGN-프레임워크(framework)란?](https://www.castingn.com/sourcing/kkultip_detail/110)
 
