@@ -59,8 +59,8 @@ TMI) 커널이라는 이름은 단단한 껌질 안의 씨앗처럼 OS 내에 �
 [Android Developers](https://developer.android.com/guide/platform)
 [RedHat - Linux 커널이란 무엇일까요?](https://www.redhat.com/ko/topics/linux/what-is-the-linux-kernel)   
 [Embedded - 23.HAL(하드웨어 추상화 계층)](https://coder-in-war.tistory.com/entry/Embedded-23-HAL%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EC%B6%94%EC%83%81%ED%99%94-%EA%B3%84%EC%B8%B5)   
-[develoid - 안드로이드 런타임(Android Rumtime)](https://develoid.github.io/android/android-runtime.html)
-[Language Note - Hardware Abstraction Layer(HAL, 하드웨어 추상화 계층)](https://angangmoddi.tistory.com/57)
+[develoid - 안드로이드 런타임(Android Rumtime)](https://develoid.github.io/android/android-runtime.html)   
+[Language Note - Hardware Abstraction Layer(HAL, 하드웨어 추상화 계층)](https://angangmoddi.tistory.com/57)   
 [구글vs오라클 Java 라이센스 전쟁](http://taewan.kim/post/android_java_war_8years/)
 
 
