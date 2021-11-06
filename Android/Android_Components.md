@@ -1,6 +1,6 @@
 # 안드로이드 컴포넌트
 ![image](https://user-images.githubusercontent.com/55342383/140608701-fb0b1ca8-4d03-45c8-8b8d-1167131458e3.png)
-출처 - [JoJo_DevStory 블로그](https://velog.io/@jojo_devstory/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-Android-4%EB%8C%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8)
+출처 - [JoJo_DevStory 블로그](https://velog.io/@jojo_devstory/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-Android-4%EB%8C%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8)   
 
 안드로이드는 **4대 컴포넌트(Activity, Service, BroadcastReceiver, ContentProvider)** 라고 불리는 대표적인 컴포넌트로 구성이 되어있음   
 + 각 컴포넌트들은 하나의 독립적인 형태로 존재
@@ -38,5 +38,5 @@
 
 ## 참고자료
 [JoJo_DevStory - 안드로이드 4대 컴포넌트(구성요소)](https://velog.io/@jojo_devstory/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-Android-4%EB%8C%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8)   
-[코딩팩토리 - 안드로이드 4대 컴포넌트(구성요소)란 무엇인가?](https://coding-factory.tistory.com/205)
+[코딩팩토리 - 안드로이드 4대 컴포넌트(구성요소)란 무엇인가?](https://coding-factory.tistory.com/205)   
 [Blogrim - 안드로이드 4대 컴포넌트(구성요소)](https://rimi-rimi.tistory.com/8)
